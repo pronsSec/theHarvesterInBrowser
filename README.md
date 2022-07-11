@@ -4,7 +4,7 @@
 
 ## This is theHarvester as you know and love it. This notebook will work on mobile devices including phones and tablets. This will also save you a fair amount of cycles so you can use them on something else.
 
-
+Click the "Open in Colab" button on the ipynb file in this repo. That will open the file in Google Colaboratory and you will be able to use the tool from there. 
 
 -Only the non-api sources are included
 
